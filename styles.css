@@ -1,0 +1,16 @@
+html body {
+  font-family: "Roboto Mono", monospace !important;
+}
+
+.s1 {
+  background-color: white;
+}
+
+.s2 {
+  background-color: rgb(179, 179, 179);
+}
+
+.text-justify {
+  text-align: justify;
+  padding: 30px;
+}
